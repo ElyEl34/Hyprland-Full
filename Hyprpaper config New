@@ -1,0 +1,8 @@
+nano ~/.config/hypr/hyprpaper.conf
+
+wallpaper {
+    monitor = eDP-1
+    path = /home/elyel/Imágenes/1.png
+}
+
+splash = false
