@@ -1,1 +1,1 @@
-Fuck my life
+All hyprland config
