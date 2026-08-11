@@ -1,0 +1,14 @@
+width=400
+height=500
+location=bottom
+yoffset=-30
+show=drun
+prompt=Buscar...
+filter_rate=100
+allow_markup=true
+always_parse_args=true
+show_io=false
+term=kitty
+hide_scroll=true
+print_command=true
+insensitive=true
