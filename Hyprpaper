@@ -1,4 +1,4 @@
-preload = /home/elyel/Imágenes/1.jpg
-wallpaper = ,/home/elyel/Imágenes/1.jpg
+preload = /home/user/Pictures/...
+wallpaper = ,/home/user/Pictures/...
 fit_mode = cover
 splash = false
