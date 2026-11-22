@@ -1,1 +1,1 @@
-All hyprland configs, styles and apps extensions
+All hyprland configs
