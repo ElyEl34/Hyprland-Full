@@ -1,6 +1,0 @@
-nano ~/config/hypr/hyprpaper.conf
-
-preload = /home/user/Pictures/...
-wallpaper = ,/home/user/Pictures/...
-fit_mode = cover
-splash = false
